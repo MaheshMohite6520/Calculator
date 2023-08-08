@@ -25,7 +25,7 @@ This is a simple calculator application developed using HTML, CSS, and JavaScrip
 
 ## Demo
 
-For a live demo of the calculator app, visit https://your-demo-link.com](http://127.0.0.1:5500/Calculator/index.html.
+For a live demo of the calculator app, visit http://127.0.0.1:5500/Calculator/index.html.
 
 ## Contributing
 
